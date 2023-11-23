@@ -1,3 +1,3 @@
-import random
-for i in range(20):
-    print(random.randint(1, 3))
+spam1 = ['1', '2', '3', 1]
+
+print(1 in spam1)
