@@ -1,1 +1,3 @@
-print(r'That is Carol\'s cat')
+import pyperclip
+pyperclip.copy('456')
+print(pyperclip.paste())
